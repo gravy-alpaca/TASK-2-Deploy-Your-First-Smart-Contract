@@ -20,8 +20,7 @@
     "operand1": 69,
     "operand2": 5,
     "operation": "+"
-}
-```
+}```
 
 
 ## Invoking the Contract
