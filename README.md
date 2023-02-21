@@ -15,7 +15,7 @@
 ## Update: ```c4c48b9d26ac876d281a53187aaf5181d4b5cb7a404176a80d75909a8a8dbada```
 ![49868697-8933-4fd3-9373-33e05ceca1a0](https://user-images.githubusercontent.com/125801855/220416875-7904ab27-8846-46b7-8140-ff6e2e3b6a31.jpg)
 ## json params:
-``` {
+```{
     "operand1": 69,
     "operand2": 5,
     "operation": "+"
