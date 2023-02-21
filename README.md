@@ -1,5 +1,6 @@
 # TASK 2 Deploy Your First-Smart Contract
-# Contract address: ```78ec89e6e48cde53a01018ef2a01d958722a2abbac9473bfae75c6ca9467259b```
+## Mainnet Address: ```4dZSRqrkgndiGCGFHN996Ab62RhkXS2QUDixpaJkjjhGVLwLsA```
+## Contract address: ```78ec89e6e48cde53a01018ef2a01d958722a2abbac9473bfae75c6ca9467259b```
 ## Building the Contract
 ### The Edited Contract was built successfully
 ### The Contract is a simple calculator
