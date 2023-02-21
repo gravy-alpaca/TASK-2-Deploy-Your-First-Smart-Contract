@@ -10,7 +10,6 @@
 ### Process went on smoothly
 ![8f648b3c-d8c5-45f8-933d-e25f7a17aefa](https://user-images.githubusercontent.com/125801855/220415062-5998116f-0f4e-4364-bd7d-273fc09e9df9.jpg)
 ## Contract init ```6312b028010a6118f1594b0879756e2cc46372253d1e5f97605b35214a96ff12```
-```
 ### Again, the process went smoothly
 ![63565176-c888-4bc1-86ed-799e3b2cc6fd](https://user-images.githubusercontent.com/125801855/220416638-9c7fc1bb-eb69-4138-916c-a73216038823.jpg)
 ## Update: ```c4c48b9d26ac876d281a53187aaf5181d4b5cb7a404176a80d75909a8a8dbada```
