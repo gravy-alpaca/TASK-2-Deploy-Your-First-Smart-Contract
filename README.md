@@ -2,6 +2,7 @@
 # Contract address: ```78ec89e6e48cde53a01018ef2a01d958722a2abbac9473bfae75c6ca9467259b```
 ## Building the Contract
 ### The Edited Contract was built successfully
+### The Contract is a simple calculator
 ![7deb8f94-9e14-47bd-b556-d48db6572f03](https://user-images.githubusercontent.com/125801855/220414496-17414ec6-c1da-41b1-afb0-e970b045d27d.jpg)
 ## Testing
 ### As you can see on this image the testing process went also smoothly
